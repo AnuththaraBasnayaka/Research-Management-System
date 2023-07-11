@@ -1,0 +1,2 @@
+# Room Service management
+It's a retail scenario in which a cashier and a manager work together to perform room service for their customers. There are two consumers and one producer in this scenario, which includes a manager consumer and a Cashier consumer and Room Service Producer. The system's manager consumer will add room details to the discount details. The cashier can then generate a bill based on the room information. 
