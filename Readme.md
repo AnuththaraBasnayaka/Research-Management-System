@@ -86,8 +86,10 @@ Research project and automating certain tasks.
 | 5.  | NoSQL Database (MongoDB) | A flexible and scalable document database      |
 | 6.  | JEST                 | A JavaScript testing framework     
 
+ <img src="images/mern.png" alt="mern" >
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments:
+
+## Acknowledgment
 🚀 Thank all SLIIT Lectures and who helps to develope and understand this Architecture
 
 <p align="right">(<a href="#top">back to top</a>)</p>
