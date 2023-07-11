@@ -18,6 +18,9 @@ Diagram_edit-Room Service Cashier Producer Senario .drawio.png image illustrate 
 
 ### Room service cashier
 According to this workflow of consumer room service cashier here can list out the room details by using option 01 Then using option 2 can enter Room ID, no of room and can generate bill. User can iterate the process and at the end user can calculated final bill. Using option 3 user can exit from program. Here user can enter client name to the bill and add date and time indicating the receipt generated moment. If there is any other invalid input system notify it to user. 
+git_image/OSGi Diagram_edit-Room Service Management Producer Senario .drawio.png
+
+OSGi Diagram_edit-Room Service Management Producer Senario .drawio.png image illustrate the workflow
 
 ### Commands Issued for excute the program :
 Step 01:
