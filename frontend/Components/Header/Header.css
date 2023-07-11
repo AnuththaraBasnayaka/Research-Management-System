@@ -1,0 +1,45 @@
+.xyz3 {
+	background: url('https://hubspot1.kissflow.com/hubfs/best-project-management-software-1-1.jpg');
+	text-align: center;
+	width: 100%;
+	height: auto;
+	background-size: cover;
+	background-attachment: fixed;
+	position: relative;
+	overflow: hidden;
+}
+header .overlays{
+	width: 100%;
+	height: 100%;
+	padding: 50px;
+	color: #FFF;
+	text-shadow: 1px 1px 1px #333;
+    background-image: linear-gradient(rgba(0,0,0,.6), rgba(0,0,0,.6));
+}
+
+.xyz1 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 80px;
+	margin-bottom: 30px;
+}
+
+.xyz2 {
+	font-family: 'Open Sans', sans-serif;
+	margin-bottom: 30px;
+}
+
+.buttonx {
+	border: none;
+	outline: none;
+	padding: 10px 20px;
+	border-radius: 50px;
+	color: #333;
+	background: #fff;
+	margin-bottom: 50px;
+	box-shadow: 0 3px 20px 0 #0000003b;
+}
+.buttonx:hover{
+	cursor: pointer;
+}
+
+

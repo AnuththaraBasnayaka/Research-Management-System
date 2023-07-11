@@ -1,0 +1,10 @@
+.cogwheel {
+    height: 40px;
+    width: 40px;
+    float: left;
+}
+
+.cogText {
+    margin-left: 70px;
+    color:brown;
+}

@@ -1,0 +1,40 @@
+.order {
+  text-align: left;
+}
+
+.ctext {
+  margin-left: 80%;
+  margin-bottom: 20px;
+}
+
+.chh3 {
+  margin-top: 10px;
+}
+
+#bt {
+  margin-right: 50px;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  color: white;
+  block-size: 40px;
+}
+#tb {
+  border-collapse: collapse;
+}
+.sawrap {
+  display: flex;
+  flex-wrap: wrap;
+}
+.CScard {
+  margin-bottom: 20px;
+}
+/* Bootstrap 4 text input with search icon */
+
+/* Styles for wrapping the search box */
+
+.main {
+  /* width: 20%; */
+  /* margin: 50px auto;  */
+  margin-top: auto;
+  margin-left: 487px;
+}
